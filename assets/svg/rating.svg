@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265.5" height="66.5" viewBox="0 0 265.5 66.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.815" y1="0.315" x2="-0.431" y2="1.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd800"/>
+      <stop offset="1" stop-color="#d0af00"/>
+    </linearGradient>
+    <filter id="Ellipse_6" x="170.5" y="9.5" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-color="#139651" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_38" data-name="Group 38" transform="translate(-82 -280)">
+    <text id="_8" data-name="8" transform="translate(332 302)" fill="#139651" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">8</tspan></text>
+    <text id="_4" data-name="4" transform="translate(191 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+    <text id="_1" data-name="1" transform="translate(89 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(122 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(156 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    <text id="_5" data-name="5" transform="translate(228 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(264 302)" fill="#ffd800" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+    <text id="_7" data-name="7" transform="translate(299 302)" fill="#139651" font-size="20" font-family="'Baloo Bhaijaan \32 '" font-weight="700"><tspan x="0" y="0">7</tspan></text>
+    <line id="Line_7" data-name="Line 7" x2="252" transform="translate(89 317.977)" fill="none" stroke="#139651" stroke-linecap="round" stroke-width="13"/>
+    <line id="Line_8" data-name="Line 8" x2="193" transform="translate(88.5 317.977)" fill="none" stroke="#ffd800" stroke-linecap="round" stroke-width="13"/>
+    <g transform="matrix(1, 0, 0, 1, 82, 280)" filter="url(#Ellipse_6)">
+      <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(190 29)" stroke="#fff" stroke-width="2" fill="url(#linear-gradient)">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
