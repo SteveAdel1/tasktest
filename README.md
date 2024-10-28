@@ -1,5 +1,16 @@
 # tasktest
 
+By wrapping the double parsing in a future, and using Future.value(doubleValue), I ensure that I passing a Future<double?> to the MainHome constructor, resolving the error you're facing. The FutureBuilder in MainHome will handle the loading and display of the value appropriately.
+
+and implement the CustomProgressBar using Cubit instead of Provider,
+
+Create a Cubit Class: This class will handle the state related to the progress.
+Modify CustomProgressBar to use Cubit: Replace the Provider logic with Cubit logic.
+Update the main widget to provide the Cubit.
+
+after that  update the CustomProgressBar to use the ProgressCubit
+Finally, I maked sure I provide the ProgressCubit in the widget tree. 
+
 A new Flutter project.
 
 ## Getting Started
